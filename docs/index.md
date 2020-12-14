@@ -26,8 +26,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
-`May 2020 - June 2020`
-__Idaho National Lab__, Idaho Falls, ID
+`May 2020 - December 2020`
+__Idaho National Lab__, Idaho Falls, ID, Data Visualizations and Analytics Intern
 
 - Sought out data sources for building an automated, lab-wide, reporting system
 - Accomplished automated reports for 3 lab organizations
@@ -36,48 +36,40 @@ __Idaho National Lab__, Idaho Falls, ID
 - Queried data in SQL to limit user access to confidential data in PowerBI
 - Designed and built dashboards for individual organizations for in depth analysis
 
+### Data Analyst
+
+`November 2019 - April 2020`
+__BYU-I Institutional Data and Analysis Services__, Rexburg, ID, Data Analyst
+
+- Built several BI dashboards to track performance at BYU-I
+- Constructed a function to pull data from an API and format into a dataset
+- Demonstrated skills in PowerBI, DAX, R, and Python
+
 ### Data Science Lead
 
-`November 2018 - April 2019`
-__Brigham Young University Idaho__, Consultant
+`September 2019 - December 2019`
+__Imagine Learning__, Consultant
 
-- Collaborated with a fellow manager in leading and coaching a team of 7 data scientists in enhancing skills and completing a major project
+- Created web scraping tool to find and format school district data
+- Used R and the Rvest package to parse and format web data
+- Saved 10's hours a month with the automated scripts
+
+`November 2018 - April 2019`
+__Brigham Young University - Idaho__, Consultant
+
+- Collaborated with a fellow manager in leading and coaching a team of 7 data scientists 
 - Analyzed data to find BYU-Idaho's death and injury rates are minimal compared to USA 
 - Expanded research to gain further insights into other factors including crime
-- Demonstrated abilities in graph visualization, web scraping, and data wrangling
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Demonstrated abilities in graph visualization, web scraping, and data wrangling using R
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2014-2016`
+__Service Missionary__, Brazil
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+__Spoken Languages__
+- Aquired Fluency in written and spoken Portuguese
+- Obtained advanced knowledge in Spanish
 
 
 
