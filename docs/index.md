@@ -6,10 +6,10 @@ title: Keaton's Resume
 Data Visualization and Analytics Intern at INL
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="jamessantbusiness@gmail.com">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/keatonsant/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/KeatonJSant?tab=repositories">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
