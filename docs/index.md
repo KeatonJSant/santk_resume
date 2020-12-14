@@ -62,16 +62,15 @@ __Brigham Young University - Idaho__, Consultant
 - Expanded research to gain further insights into other factors including crime
 - Demonstrated abilities in graph visualization, web scraping, and data wrangling using R
 
-## Service and Work History
+## Service History
 
 `2014-2016`
-__Service Missionary__, Brazil
-
-__Spoken Languages__
+__Service Missionary__, Brazil, District Leader
 - Aquired Fluency in written and spoken Portuguese
 - Obtained advanced knowledge in Spanish
 
-
+`2007-2013`
+__Boy Scouts of America__, Eagle Scout
 
 <!-- ### Footer
 
