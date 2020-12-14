@@ -16,36 +16,35 @@ Data Visualization and Analytics Intern at INL
 
 ## Education
 
-`2025-2027`
-Brigham Young University Idaho, Rexburg, ID
-
-- Current GPA 3.75 
-
-`Expected 2029`
+`Expected 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.74 Major GPA
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
+`May 2020 - June 2020`
 __Idaho National Lab__, Idaho Falls, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Sought out data sources for building an automated, lab-wide, reporting system
+- Accomplished automated reports for 3 lab organizations
+- Saved INL 100’s of hours and 1000’s of dollars each quarter
+- Collaborated with data owners to connect all lab data into reporting system
+- Queried data in SQL to limit user access to confidential data in PowerBI
+- Designed and built dashboards for individual organizations for in depth analysis
 
 ### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`November 2018 - April 2019`
+__Brigham Young University Idaho__, Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Collaborated with a fellow manager in leading and coaching a team of 7 data scientists in enhancing skills and completing a major project
+- Analyzed data to find BYU-Idaho's death and injury rates are minimal compared to USA 
+- Expanded research to gain further insights into other factors including crime
+- Demonstrated abilities in graph visualization, web scraping, and data wrangling
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
