@@ -32,7 +32,7 @@ __Idaho National Laboratory__, Idaho Falls, ID, Data Visualizations and Analytic
 - Built an automated, lab-wide, reporting system with PowerBI and SQL
 - Saved Idaho National Laboratory 100’s of hours and 1000’s of dollars each quarter in labor by automating reports
 - Consulted with data owners to connect all lab data to the reporting system
-- Designed and Developed 4 dashboards for individual organizations to use for in-depth analysis
+- Designed and developed 4 dashboards for individual organizations to use for in-depth analysis
 -	Collaborated with a team of interns, contractors, and fulltime employees remotely 
 
 ### Data Analyst
