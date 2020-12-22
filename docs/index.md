@@ -65,7 +65,7 @@ __Brigham Young University - Idaho__, Consultant
 
 `Summer 2020`
 __Financial Dashboard__
-- Utilized PowerBI to create a dashboard to track persenal finances
+- Utilized PowerBI to create a desktop and mobile dashboard to track persenal finances
 - Designed and developed a database in MySQL to insert financial data
 - Created a view to improve data analytical efficiency
 
